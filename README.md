@@ -12,3 +12,4 @@ WeatherCLI
 2. 配置环境变量
 ```bash
 export OWM_API_KEY="你的API密钥
+jxbd
