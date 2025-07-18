@@ -1,0 +1,46 @@
+import argparse
+import requests
+import os
+
+def get_weather(api_key, city):
+    base_url = "http://api.openweathermap.org/data/2.5/weather"
+    params = {
+        "q": city,
+        "appid": api_key,
+        "units": "metric"
+    }
+    
+    try:
+        response = requests.get(base_url, params=params)
+        response.raise_for_status()
+        data = response.json()
+        
+        return {
+            "city": data["name"],
+            "temp": data["main"]["temp"],
+            "description": data["weather"][0]["description"],
+            "humidity": data["main"]["humidity"]
+        }
+    except Exception as e:
+        print(f"Error fetching weather: {e}")
+        return None
+
+def main():
+    parser = argparse.ArgumentParser(description="Get weather information for a city")
+    parser.add_argument("city", help="City name")
+    args = parser.parse_args()
+    
+    api_key = os.getenv("OWM_API_KEY")
+    if not api_key:
+        print("Please set OWM_API_KEY environment variable")
+        return
+    
+    weather = get_weather(api_key, args.city)
+    if weather:
+        print(f"Weather in {weather['city']}:")
+        print(f"Temperature: {weather['temp']}°C")
+        print(f"Condition: {weather['description']}")
+        print(f"Humidity: {weather['humidity']}%")
+
+if __name__ == "__main__":
+    main(
