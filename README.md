@@ -1,4 +1,4 @@
-# WeatherCLI# 
+ # WeatherCLI# 
 WeatherCLI
 
 一个命令行天气查询工具
@@ -12,4 +12,4 @@ WeatherCLI
 2. 配置环境变量
 ```bash
 export OWM_API_KEY="你的API密钥
-jxbd xjdbd fjdgd f fjdb hfc hcvg hvg ugg fgvhvvgfcgvgcfchgvvvgfv hcv cjxbs x xh d hdbxh
+jxbd xjdbd fjdgd f fjdb hfc hcvg hvg ugg fgvhvvgfcgvgcfchgvvvgfv hcv cjxbs x xh d hdbxh zhs
