@@ -14,5 +14,5 @@ WeatherCLI
 export OWM_API_KEY="你的API密钥
 
 jxbd xjdb h hfv dd fjdgd hxhdb xvdf fjdb hfc hcvg hvg ugg ggb fgvhgvvy vvgf f xhx
-hxx cgvgcf tfv dhgvb fgv hgt
+hxx cgvgcf tfv dhgvb  hgv fgv hgt
 chgvvvgfv hcv cjxbs x xh d hdbxh zhsgv hgv xhxd fjdbd dhd
