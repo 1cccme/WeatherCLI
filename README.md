@@ -13,6 +13,6 @@ WeatherCLI
 ```bash
 export OWM_API_KEY="你的API密钥
 
-jxbd xjdjdb h hfv dd fjdgd hxhdb xvdf fjdb hfc hcx cjxhzxdh fjdb cuxhd cjxbxhxhx xbxjxbx f.fjf ggjd r fjd fgjx s vgxnxjxh xjxhd ccf bdbdhvg uhhv h jg  gcdr hffvf gy hhf avffcfghgf vffcg ggb fgvgg hsdvvd vs ggvvf hgvvy vvgf f xhx djd dhdbs fhdhd xbbx xhx xdjd hdbbx ydbd hhd xjzbd xhz x 
+jxbd xjdjdb h hfv dd fjdgd hxhdb xvdf fjdb hfc hcx cjxhzxdh fjdb cuxhd cjxbxhxhx xbxjxbx f.fjf sjbsdggjd r fjd fgjx s vgxnxjxh xjxhd ccf bdbdhvg uhhv h jg  gcdr hffvf gy hhf avffcfghgf vffcg ggb fgvgg hsdvvd vs ggvvf hgvvy vvgf f xhx djd dhdbs fhdhd xbbx xhx xdjd hdbbx ydbd hhd xjzbd xhz x 
 hxx cgvgcf tfv dhyvgv  gvb  hgv fgv hgt
 chgvvvgfv hcv cjxbs x xh d hdbxh zhsgv hgv xhxd fjdbd dhd fjdbd 
